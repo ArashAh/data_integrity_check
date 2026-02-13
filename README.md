@@ -4,7 +4,7 @@ Minimal steps to generate integrity reports and compare them.
 
 Replace the sample_dataset.csv with a copy of your .csv file. 
 
-Reports can be generated at the source and destination can be compared.
+Reports can be generated at the source and destination and be compared.
 
 ## Prerequisites
 - Python 3.8+ (any recent 3.x should work)
